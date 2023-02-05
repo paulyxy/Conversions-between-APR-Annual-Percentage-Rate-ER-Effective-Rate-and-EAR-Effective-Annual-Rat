@@ -32,7 +32,6 @@
    # 5) APR2 = EA2*n2
 
 ## Two papers
-
 ##  A 2-step approach to estimate an effective ra
 ##      http://datayyy.com/doc_pdf/A_2step_approach_effective_rate.pdf
 ##
