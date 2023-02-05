@@ -1,13 +1,13 @@
 # Conversions between APR (Annual Percentage Rate), ER (Effective Rate), and EAR (Effective Annual Rate) 
 
-# Part I---------------------------------------------------------------
+# Part I---------------------------------------------------------
 # For a pair of given APR1 (Annual Percentage Rate) and its compounding frequency (n1),
 #  we calculate:
 #    a) Effective Rate for n1 period
 #    b) EAR (Effective Annual Rate)
 
 
-# Part II---------------------------------------------------------------
+# Part II------------------------------------------------------
 # With more information: the second compounding frequency (n2), we calculate:
 #   c) equivalent effective rate (for n2), and
 #   d) equivalent APR2 (for n2).
